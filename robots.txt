@@ -3,3 +3,4 @@ Disallow: /Basic/
 Disallow: /assets/
 Disallow: /404.html
 Disallow: /README.md
+Disallow: /robots.txt
