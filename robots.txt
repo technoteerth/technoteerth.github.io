@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Basic/
+Disallow: /assets/
+Disallow: /404.html
+Disallow: /README.md
