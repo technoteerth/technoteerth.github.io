@@ -1,8 +1,9 @@
 User-agent: *
-Disallow: /Basic/
-Disallow: /assets/
-Disallow: /404.html
 Disallow: /README.md
-Disallow: /robots.txt
-Disallow: /web/camera/test/app.js
-Disallow: /web/camera/test/style.css
+Disallow: /404.html
+Disallow: /assets
+Disallow: /Basic
+Disallow: /projects/web/camera/test/style.css
+Disallow: /projects/web/camera/test/app.js
+
+Allow: /assets/images
