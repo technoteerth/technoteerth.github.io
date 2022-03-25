@@ -1,9 +1,0 @@
-User-agent: *
-Disallow: /README.md
-Disallow: /404.html
-Disallow: /assets/*
-Disallow: /Basic/*
-Disallow: /projects/web/camera/test/style.css
-Disallow: /projects/web/camera/test/app.js
-
-Allow: /assets/images/*
